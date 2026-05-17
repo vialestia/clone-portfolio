@@ -1,5 +1,1 @@
-import App from '../App';
-
-export default function Page() {
-  return <App />;
-}
+import App from '../App'; export default function Page() { return <App />; }
